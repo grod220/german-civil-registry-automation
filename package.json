@@ -1,0 +1,16 @@
+{
+  "name": "civil-registry-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabe",
+  "license": "ISC",
+  "dependencies": {
+    "alert-node": "^2.1.4",
+    "node-cron": "^2.0.3",
+    "puppeteer": "^2.1.1"
+  }
+}
